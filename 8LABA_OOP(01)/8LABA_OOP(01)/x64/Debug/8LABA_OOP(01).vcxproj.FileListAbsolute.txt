@@ -1,0 +1,8 @@
+E:\Proects\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.AssemblyReference.cache
+E:\Proects\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.SuggestedBindingRedirects.cache
+E:\Proects\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\My8LABAOOP01.MyForm.resources
+E:\Proects\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.GenerateResource.cache
+C:\Users\after\OneDrive\Рабочий стол\учьоба\Другий курс\OOP\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.AssemblyReference.cache
+C:\Users\after\OneDrive\Рабочий стол\учьоба\Другий курс\OOP\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.SuggestedBindingRedirects.cache
+C:\Users\after\OneDrive\Рабочий стол\учьоба\Другий курс\OOP\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\My8LABAOOP01.MyForm.resources
+C:\Users\after\OneDrive\Рабочий стол\учьоба\Другий курс\OOP\8LABA_OOP(01)\8LABA_OOP(01)\x64\Debug\8LABA_OOP(01).vcxproj.GenerateResource.cache
